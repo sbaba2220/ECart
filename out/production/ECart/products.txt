@@ -1,0 +1,7 @@
+TV, Telivision, 499.99, Electronics
+IPhone 14, Mobile Phone Iphone 14, 899.99, Electronics
+Airpods, Apple Airpods,199.99, Electronics
+Laptop, Laptop, 1499.99, Electronics
+T-Shirt, T-Shirt, 39.99, Clothing
+Jeans, Jeans, 59.99, Clothing
+Denim Jacket, Jacket, 89.99, Clothing
